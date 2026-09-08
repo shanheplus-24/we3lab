@@ -193,5 +193,16 @@
     "netID": "ttsung2",
     "bio": "Tim Tsung is an Administrative Associate in the Civil and Environmental Engineering Department at Stanford University.",
     "email": "ttsung2@stanford.edu"
+  },
+  {
+    "name": "Sabi Can Ruso",
+    "role": "phd student",
+    "scholar_url": "",
+    "linkedin": "https://www.linkedin.com/in/sabicanruso/",
+    "website": "",
+    "cv": "",
+    "netID": "canruso",
+    "bio": "Sabi Can Ruso is a PhD student in Civil and Environmental Engineering at Stanford University. He earned his B.S. in Environmental Sciences and Data Science and his M.S. in Civil and Environmental Engineering with a concentration in Systems Engineering, both from the University of California, Berkeley. Before joining the WE3 Lab, he worked on collaborative water resources projects including CoEqwal (Collaboratory for Equity in Water Allocations) and with agencies such as the California Department of Water Resources and the U.S. Army Corps of Engineers.",
+    "email": "canruso@stanford.edu"
   }
 ]
